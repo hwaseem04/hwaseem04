@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![img](/linkedin.png?raw=true )][linkedin]
 [<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]
-[<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="/instagram.png" />][instagram]
 
 <br />
 

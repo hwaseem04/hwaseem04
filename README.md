@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 ## I am undergraduate Student 
 
-- 📚 I’m currently learning everything 🤙
+- 📚 I’m currently learning everything related to tech 🤙
 - 🥅 2022 Goals: Contribute to Open Source projects 💪
-- 💻 Fond of Apple Products
+- 🤔 Fond of Apple Products 💻 
 
 ### Connect with me:
-
+<div style="width:22px ; height:22px">
 [![img](iMuhammadwaseem/linkedin.png?raw=true )][linkedin]
+<div>
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />

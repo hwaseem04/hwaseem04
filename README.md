@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 - 📚 I’m currently learning everything related to tech 🤙
 - 🥅 2022 Goals: Contribute to Open Source projects 💪
-- 🤔 Fond of Apple Products 💻 
+- 🤐 Fond of Apple Products 💻 
 
 ### Connect with me:
 
 [![img](/linkedin.png?raw=true )][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]
+[<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 

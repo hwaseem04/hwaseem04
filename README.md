@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello everyone, I am Muhammad Waseem ✨
+### Hello everyone, I am Muhammad Waseem 
 
-## I am Undergraduate Student 
+## I am Undergraduate Student ✨
 
 - 📚 I’m currently learning everything related to tech 🤙
 - 🥅 2022 Goals: Contribute to Open Source projects 💪

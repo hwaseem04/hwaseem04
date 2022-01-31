@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :raised_hands:  Hello Viewers, I am an Undergraduate Student ✨
+##   Hello Viewers :raised_hands:, I am an Undergraduate Student ✨
 
 - 📚 I’m currently learning everything related to tech 🤙
 - 🥅 2022 Goals: Contribute to Open Source projects 💪
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## Connect with me
+## ✌🏻 Feel free to Connect
 
 [<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]
 [<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="/instagram.png" />][instagram]

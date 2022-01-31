@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 <div style="width:22px ; height:22px">
 [![img](iMuhammadwaseem/linkedin.png?raw=true )][linkedin]
-<div>
+</div>
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />

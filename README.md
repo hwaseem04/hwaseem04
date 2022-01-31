@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello everyone, I am Muhammad Waseem 
+
+## I am undergraduate Student 
+
+- 🌱 I’m currently learning everything 🤙
+- 🥅 2022 Goals: Contribute more to Open Source projects 💪
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/premium-icon/linkedin_2335321?term=linkedin&page=1&position=92&page=1&position=92&related_id=2335321&origin=tag" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[instagram]: https://instagram.com/imuhammadwaseem17
+[linkedin]: https://linkedin.com/in/imuhammadwaseem

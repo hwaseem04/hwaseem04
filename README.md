@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ## I am undergraduate Student 
 
-- 🌱 I’m currently learning everything 🤙
-- 🥅 2022 Goals: Contribute more to Open Source projects 💪
+- 📚 I’m currently learning everything 🤙
+- 🥅 2022 Goals: Contribute to Open Source projects 💪
+- 💻 Fond of Apple Products
 
 ### Connect with me:
 

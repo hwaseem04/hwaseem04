@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📚 I’m currently learning everything related to tech 🤙
 - 🥅 2022 Goals: Contribute to Open Source projects 💪
 - 🤐 Fond of Apple Products 💻 
-
+---
 ### Connect with me:
 
 [<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]

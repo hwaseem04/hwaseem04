@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]
 [<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="/instagram.png" />][instagram]
 
+<br />
+
 ## I am an Undergraduate Student ✨
 
 - 📚 I’m currently learning everything related to tech 🤙
@@ -26,7 +28,6 @@ Here are some ideas to get you started:
 - 🤐 Fond of Apple Products 💻 
 
 
-<br />
 
 [instagram]: https://instagram.com/imuhammadwaseem17
 [linkedin]: https://linkedin.com/in/imuhammadwaseem

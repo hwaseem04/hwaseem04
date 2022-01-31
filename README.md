@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 
-
-[<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]
-[<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="/instagram.png" />][instagram]
-
-<br />
 
 ## :raised_hands:  Hello Viewers, I am an Undergraduate Student ✨
 
@@ -27,6 +21,12 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Contribute to Open Source projects 💪
 - 🤐 Fond of Apple Products 💻 
 
+<br />
+
+## Connect with me
+
+[<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]
+[<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="/instagram.png" />][instagram]
 
 
 [instagram]: https://instagram.com/imuhammadwaseem17

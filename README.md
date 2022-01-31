@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :raised_hands:  Hello Viewers, I am Muhammad Waseem 
-
+📫
 [<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]
 [<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="/instagram.png" />][instagram]
 

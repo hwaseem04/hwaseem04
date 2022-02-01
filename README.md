@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Feel free to Connect ✌
+
+[<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]
+[<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="/instagram.png" />][instagram]
+
 
 ##   Hello Viewers :raised_hands:, I am an Undergraduate Student ✨
 
@@ -22,11 +27,6 @@ Here are some ideas to get you started:
 - 🤐 Fond of Apple Products 💻 
 
 <br />
-
-## Feel free to Connect ✌
-
-[<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png" />][linkedin]
-[<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="/instagram.png" />][instagram]
 
 
 [instagram]: https://instagram.com/imuhammadwaseem17

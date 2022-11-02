@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 journey
     title My routine
     section Morning
-      Debugging, side projects: 5: Me
+      Side projects: 5: Me
       Study new stuff: 5: Me
     section Go to college
       Lectures: 3: Me
       Do work: 4: Me
     section Go home
       Assignments, Lecture revisions: 4: Me
-      bugging, side projects: 5: Me
+      Debugging, Side projects: 5: Me
 ```
 
 ## Feel free to Connect ✌

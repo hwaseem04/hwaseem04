@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 <br />
 
 -->
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## Feel free to Connect ✌
 
 [<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png?raw=true" />][linkedin]

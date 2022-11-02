@@ -26,11 +26,17 @@ Here are some ideas to get you started:
 
 -->
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+journey
+    title My routine
+    section Morning
+      Debugging, side projects: 5: Me
+      Study new stuff: 5: Me
+    section Go to college
+      Lectures: 3: Me
+      Do work: 4: Me
+    section Go home
+      Assignments, Lecture revisions: 4: Me
+      bugging, side projects: 5: Me
 ```
 
 ## Feel free to Connect ✌

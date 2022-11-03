@@ -36,7 +36,8 @@ journey
       Do work: 4: Me
     section Go home
       Assignments, Lecture revisions: 4: Me
-      Debugging, Side projects: 5: Me
+      Debugging: 3: Me
+      Side projects: 5: Me
 ```
 
 ## Feel free to Connect ✌

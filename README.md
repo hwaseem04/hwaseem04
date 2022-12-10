@@ -40,13 +40,3 @@ journey
       Side projects: 5: Me
 ```
 
-## Feel free to Connect ✌
-
-[<img align="left" alt="iMuhammadWaseem | Linkedin" width="22px" src="/linkedin.png?raw=true" />][linkedin]
-<!-- [<img align="left" alt="imuhammadwaseem17 | Instagram" width="22px" src="/instagram.png" />][instagram]
-
-
-
-
-[instagram]: https://instagram.com/imuhammadwaseem17 -->
-[linkedin]: https://linkedin.com/in/imuhammadwaseem

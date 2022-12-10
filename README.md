@@ -1,8 +1,4 @@
-
-
 <!--
-**iMuhammadwaseem/iMuhammadwaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,14 +13,6 @@ Here are some ideas to get you started:
 
 
 ##   I am an Undergraduate Student
-<!--
-- 📚 I’m currently learning everything related to tech
-- 🥅 2022 Goals: Contribute to Open Source projects
-- 🤐 Fond of Apple Products 💻 
-
-<br />
-
--->
 ```mermaid
 journey
     title My routine
@@ -39,4 +27,3 @@ journey
       Debugging: 3: Me
       Side projects: 5: Me
 ```
-

@@ -27,4 +27,9 @@ journey
       Debugging: 3: Me
       Side projects: 5: Me
 ```
-![](https://komarev.com/ghpvc/?username=hwaseem04)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hwaseem04&theme=maroongold)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=hwaseem04&color=green&style=flat-square)
+

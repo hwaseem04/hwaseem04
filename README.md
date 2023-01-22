@@ -29,7 +29,7 @@ journey
 ```
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hwaseem04&theme=maroongold)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hwaseem04&theme=github-green-purple)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=hwaseem04&color=green&style=flat-square)
 

@@ -34,6 +34,8 @@ journey
 ### 📈 &nbsp;Stats
 <div align="center">
 
+[![hwaseem04's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=hwaseem04&line=FF0090&theme=chartreuse-dark)](https://github.com/hwaseem04)
+
 <img width="500em" src="https://streak-stats.demolab.com?user=hwaseem04&theme=github-green-purple">
 
 <br>

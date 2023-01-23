@@ -28,8 +28,21 @@ journey
       Side projects: 5: Me
 ```
 
+### 📈 &nbsp;Stats
+<p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hwaseem04&theme=github-green-purple)](https://git.io/streak-stats)
+<img width="500em" src="https://streak-stats.demolab.com?user=hwaseem04&theme=github-green-purple">
 
-![](https://komarev.com/ghpvc/?username=hwaseem04&color=green&style=flat-square)
+<br>
+<br>
 
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwaseem04&layout=compact&theme=radical">
+
+<br>
+<br>
+<img width="100em" src="https://komarev.com/ghpvc/?username=hwaseem04&color=green&style=flat-square">
+
+</p>
+
+
+[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwaseem04)](https://github.com/anuraghazra/github-readme-stats)

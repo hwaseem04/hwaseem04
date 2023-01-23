@@ -39,7 +39,7 @@ journey
 <br>
 <br>
 
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwaseem04&layout=compact&theme=radical">
+<img width="300em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hwaseem04&layout=compact&theme=radical">
 
 <br>
 <br>

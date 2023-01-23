@@ -43,6 +43,3 @@ journey
 <img width="100em" src="https://komarev.com/ghpvc/?username=hwaseem04&color=green&style=flat-square">
 
 </p>
-
-
-[![stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwaseem04)](https://github.com/anuraghazra/github-readme-stats)

@@ -32,7 +32,7 @@ journey
 ```
 
 ### 📈 &nbsp;Stats
-<p align="center">
+<div align="center">
 
 <img width="500em" src="https://streak-stats.demolab.com?user=hwaseem04&theme=github-green-purple">
 
@@ -41,13 +41,17 @@ journey
 
 <img width="300em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hwaseem04&layout=compact&theme=radical">
 
+
+**Note**: Top languages is only a metric of the languages my public code consists of and **doesn't reflect** experience or skill level.
+
 <br>
-<br>
+
 <img width="100em" src="https://komarev.com/ghpvc/?username=hwaseem04&color=green&style=flat-square">
 
+
 <br>
 
-</p>
+</div>
 
 ### 🧑🏻‍💻 &nbsp;Tech Stack
 

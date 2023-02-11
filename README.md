@@ -36,9 +36,9 @@ journey
 
 [![hwaseem04's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=hwaseem04&color=07F700&line=FF0090&area=true&area_color=FFB6C1&custom_title=Muhammad%20Waseem's%20Contribution%20graph&theme=chartreuse-dark)](https://github.com/hwaseem04)
 
-<img width="500em" src="https://streak-stats.demolab.com?user=hwaseem04&theme=github-green-purple">
+<!-- <img width="500em" src="https://streak-stats.demolab.com?user=hwaseem04&theme=github-green-purple">
 
-<br>
+<br> -->
 <br>
 
 <img width="300em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hwaseem04&layout=compact&theme=radical">

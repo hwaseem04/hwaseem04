@@ -16,20 +16,10 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=07F700&background=FF272700&center=true&vCenter=true&width=435&lines=I+am+Muhammad+Waseem+;Undergraduate+Researcher;Computer+Vision+Enthusiast;Love+Training+Neural+Networks" alt="Typing SVG" /></a>
 </div>
 
-```mermaid
-journey
-    title My routine
-    section Morning
-      Side projects: 5.5: Me
-      Study new stuff: 6: Me
-    section Go to college
-      Lectures: 2.5: Me
-      Do work: 4: Me
-    section Go home
-      Assignments, Lecture revisions: 3: Me
-      Debugging: 3.5: Me
-      Side projects: 5.5: Me
-```
+## Hey there!
+- 📌 Currently working on generating precise text-line segmentation for palm leaf manuscripts under Prof.Ravi Kiran at CVIT Lab in IIIT Hyderabad.
+- 📍 Interested in Generative models, Segmentation and other computer vision problems
+- 🛠️ Open to new exciting and challenging research problems.
 
 ### 📈 &nbsp;Stats
 <div align="center">

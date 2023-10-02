@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 <!-- <img width="500em" src="https://streak-stats.demolab.com?user=hwaseem04&theme=github-green-purple">
 
 <br> -->
-<br>
+<!-- <br>
 
 <img width="300em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hwaseem04&layout=compact&theme=radical">
 
 
-**Note**: Top languages is only a metric of the languages my public code consists of and **doesn't reflect** experience or skill level.
+**Note**: Top languages is only a metric of the languages my public code consists of and **doesn't reflect** experience or skill level. -->
 
 <br>
 

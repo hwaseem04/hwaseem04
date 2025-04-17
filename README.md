@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Hey there!
-- 📌 Currently working on generating precise text-line segmentation for palm leaf manuscripts under Prof.Ravi Kiran at CVIT Lab in IIIT Hyderabad.
-- 📍 Interested in Generative models, Segmentation and other computer vision problems
-- 🛠️ Open to new exciting and challenging research problems.
+- You can find more about me here: [Portfolio](http://hwaseem04.github.io/)
 
 <!--
 ### 📈 &nbsp;Stats
@@ -46,6 +44,8 @@ Here are some ideas to get you started:
 
 </div>
 
+
+<!-- 
 ### 🧑🏻‍💻 &nbsp;Tech Stack
 
 
@@ -64,7 +64,7 @@ Browser | <img width="80px" height="27px" src="https://img.shields.io/badge/Safa
 Miscellaneous       | <img width="40px" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"> <img width="40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> <img width="80px" height="27px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img width="120px" height="27px" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"> <img width="100px" height="27px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
 </div>
-
+-->
 
 
 

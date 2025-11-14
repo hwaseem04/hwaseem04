@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=07F700&background=FF272700&center=true&vCenter=true&width=435&lines=I+am+Muhammad+Waseem+;Undergraduate+Researcher;Computer+Vision+Enthusiast;Love+Training+Neural+Networks" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&pause=1000&color=07F700&background=FF272700&center=true&vCenter=true&width=435&lines=I+am+Muhammad+Waseem+;Graduate+Researcher;Computer+Vision+Enthusiast;Trustworthy+ML;Agents" alt="Typing SVG" /></a>
 </div>
 
 ## Hey there!
